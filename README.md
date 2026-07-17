@@ -1,9 +1,9 @@
 ## Brock Daylor
 
-Master's student in economics at the Toulouse School of Economics (M1, international track). Previously an economic consultant at Bates White in Washington, DC, working on applied econometrics [PERSONALIZE: one clause on your practice area].
+M1 student in economics at the Toulouse School of Economics. Previously an antitrust economic consultant at Bates White in Washington, DC.
 
-Interests: applied microeconomics and econometrics [PERSONALIZE: 2-3 actual fields].
+Research interests: Industrial Organization, Political Economy, Labor Economics.
 
-**[mlb_predict](https://github.com/brockdaylor/mlb_predict)** - reproducible R pipeline for MLB data (Statcast, FanGraphs, Baseball Reference, Lahman): incremental pulls, renv-locked environment, raw data to figures in numbered scripts.
+Outside of economics, I also am interested in baseball statistics (see https://github.com/brockdaylor/mlb_predict for my WIP analysis pipeline).
 
 Contact: brockdaylor@gmail.com
