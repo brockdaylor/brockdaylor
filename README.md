@@ -1,8 +1,8 @@
 ## Brock Daylor
 
-M1 student in economics at the Toulouse School of Economics. Previously an antitrust economic consultant at Bates White in Washington, DC.
+I am an M1 economics student at Toulouse School of Economics. Previously, I was an antitrust economic consultant at Bates White in Washington, DC.
 
-Research interests: industrial organization, political economy, labor economics.
+My research interests are industrial organization, political economy, labor economics.
 
 Outside of economics, I also am interested in baseball statistics (see https://github.com/brockdaylor/mlb_predict for my WIP analysis pipeline).
 
